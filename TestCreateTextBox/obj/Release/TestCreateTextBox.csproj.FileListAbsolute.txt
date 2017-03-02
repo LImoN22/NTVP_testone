@@ -1,0 +1,8 @@
+C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\bin\Release\TestCreateTextBox.exe.config
+C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\bin\Release\TestCreateTextBox.exe
+C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\bin\Release\TestCreateTextBox.pdb
+C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Release\TestCreateTextBox.Form1.resources
+C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Release\TestCreateTextBox.Properties.Resources.resources
+C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Release\TestCreateTextBox.csproj.GenerateResource.Cache
+C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Release\TestCreateTextBox.exe
+C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Release\TestCreateTextBox.pdb
