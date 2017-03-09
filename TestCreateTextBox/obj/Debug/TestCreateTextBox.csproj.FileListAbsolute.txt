@@ -1,9 +1,0 @@
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\bin\Debug\TestCreateTextBox.exe.config
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\bin\Debug\TestCreateTextBox.exe
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\bin\Debug\TestCreateTextBox.pdb
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Debug\TestCreateTextBox.Form1.resources
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Debug\TestCreateTextBox.Properties.Resources.resources
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Debug\TestCreateTextBox.csproj.GenerateResource.Cache
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Debug\TestCreateTextBox.exe
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Debug\TestCreateTextBox.pdb
-C:\Users\RageBook\Desktop\TEST_WINDOWSFORM\InnerTextBox\TestCreateTextBox\obj\Debug\TestCreateTextBox.csprojResolveAssemblyReference.cache
